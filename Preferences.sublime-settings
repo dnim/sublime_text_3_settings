@@ -1,41 +1,46 @@
 {
-	"added_words":
-	[
-		"const",
-		"param",
-		"html",
-		"behaviour",
-		"colour",
-		"colourful",
-		"glamour",
-		"offsprings",
-		"globalization",
-		"programmes",
-		"cyberattack",
-		"cybercrime",
-		"phishing"
-	],
-	"binary_file_patterns":
-	[
-		"*.dds",
-		"*.eot",
-		"*.gif",
-		"*.ico",
-		"*.jar",
-		"*.jpeg",
-		"*.jpg",
-		"*.pdf",
-		"*.png",
-		"*.swf",
-		"*.tga",
-		"*.ttf",
-		"*.zip",
-		"/E/programming/projects/nodejs_wesbos_course/crack-the-node/node_modules/**"
-	],
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_size": 16,
-	"ignored_packages":
-	[
-		"Vintage"
-	]
+    "added_words":
+    [
+        "const",
+        "param",
+        "html",
+        "behaviour",
+        "colour",
+        "colourful",
+        "glamour",
+        "offsprings",
+        "globalization",
+        "programmes",
+        "cyberattack",
+        "cybercrime",
+        "phishing"
+    ],
+    "binary_file_patterns":
+    [
+        "*.dds",
+        "*.eot",
+        "*.gif",
+        "*.ico",
+        "*.jar",
+        "*.jpeg",
+        "*.jpg",
+        "*.pdf",
+        "*.png",
+        "*.swf",
+        "*.tga",
+        "*.ttf",
+        "*.zip",
+        "/E/programming/projects/nodejs_wesbos_course/crack-the-node/node_modules/**"
+    ],
+    "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+    "font_size": 15,
+    "rulers": [120],
+    // Set to true to removing trailing white space on save
+    "trim_trailing_white_space_on_save": true,
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ]
 }
