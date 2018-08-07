@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Babel",
+		"Color Highlighter",
+		"Cucumber",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"Gherkin (Cucumber) Formatter",
+		"Git",
+		"GitGutter",
+		"Gradle_Language",
+		"Grails",
+		"Jade",
+		"Kotlin",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"tern_for_sublime",
+		"WordCount"
+	]
+}
